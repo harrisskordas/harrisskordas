@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on my side quest, which is completing my <br>Master Degree in National Technological University of Athens with <br>title "Data Science and Machine Learning".
+I am currently working on my side quest, which is completing my <br>Master Degree in National Technical University of Athens with <br>title "Data Science and Machine Learning".
 
 
 ## 🌐 Socials:
