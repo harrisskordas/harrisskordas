@@ -5,6 +5,8 @@ I am currently working on my side quest, which is completing my <br>Master Degre
 https://github.com/harrisskordas/harrisskordas/releases/download/v1/Skordas_CV.pdf
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="charisis-skordas" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gr.linkedin.com/in/charisis-skordas?trk=profile-badge">Charisis Skordas</a></div>
+              
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charisis-skordas) 
 
