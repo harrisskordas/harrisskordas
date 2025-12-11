@@ -2,7 +2,7 @@
 I am currently working on my side quest, which is completing my <br>Master Degree in National Technical University of Athens with <br>title "Data Science and Machine Learning".
 
 ## Download my CV:
-https://github.com/harrisskordas/harrisskordas/releases/download/v1.0/Skordas_CV.pdf
+https://github.com/harrisskordas/harrisskordas/releases/v1/Skordas_CV.pdf
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charisis-skordas) 
