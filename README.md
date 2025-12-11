@@ -4,6 +4,7 @@ I am currently working on my side quest, which is completing my <br>Master Degre
 ## Download my CV:
 https://github.com/harrisskordas/harrisskordas/releases/download/v1/Skordas_CV.pdf
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charisis-skordas) 
 
