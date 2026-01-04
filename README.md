@@ -20,5 +20,4 @@ https://github.com/harrisskordas/harrisskordas/releases/download/v1/Skordas_CV.p
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harrisskordas&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+So many books... so little time
