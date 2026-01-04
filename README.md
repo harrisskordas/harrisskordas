@@ -15,6 +15,6 @@ https://github.com/harrisskordas/harrisskordas/releases/download/v1/Skordas_CV.p
 ![](https://nirzak-streak-stats.vercel.app/?user=harrisskordas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisskordas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-So many books... so little time
+### ✍️ Dev Quote
+![]So many books... so little time
+
